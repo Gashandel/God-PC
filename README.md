@@ -1,5 +1,4 @@
 <html>
-    <head>GodPC</head>
     <body style="background-color:lightgreen;"> 
         <header style="background-color:black">
              <img src="https://drive.google.com/uc?export=view&id=18r-jmXyZDpNmKgq6_vmSvjv25U03Uxho"  width="170" height="70"/>
@@ -44,6 +43,5 @@
                     <a href="www.facebook.com"><img src="https://drive.google.com/uc?export=view&id=1PiXXeG2iosuuaSklrZnU9zLeuKm5Ddgk" width="40px"></a>
                     <a href="www.instagram.com/"><img src="https://drive.google.com/uc?export=view&id=1tJ_lc5mNjoiJlVNYZVbm9GxotS0cW4u1" width="40px"></a>
                     
-       </footer>
-   </body>
+
 </html>
