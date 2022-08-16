@@ -42,4 +42,4 @@
             <h4 style="font-family:sans-serif">Телефон: 968 179 397</h4>
                     <a href="www.facebook.com"><img src="https://drive.google.com/uc?export=view&id=1PiXXeG2iosuuaSklrZnU9zLeuKm5Ddgk" width="40px"></a>
                     <a href="www.instagram.com/"><img src="https://drive.google.com/uc?export=view&id=1tJ_lc5mNjoiJlVNYZVbm9GxotS0cW4u1" width="40px"></a>
-</html>
+
